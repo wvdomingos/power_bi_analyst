@@ -1,29 +1,38 @@
-# 🚀 Projeto de Análise de Dados com Power BI
+# 🚀 Projetos da Formação Power BI Analyst
+>Ofertado pelo [Dio.me](https://www.dio.me/users/wandervilhalvadomingos)
 
-Bem-vindo ao meu espaço de descobertas de dados! Aqui, mergulhamos nos números para revelar histórias fascinantes. 📊✨
+## Sobre os Projetos
+
+Neste projeto você irá replicar páginas já criadas durante o curso com a sample disponibilizada. Acesse o link do Github para ter acesso aos dados: [Juliana Zanelatto](https://github.com/julianazanelatto/power_bi_analyst) 
+
+## Projeto 1: Analisando Dados com meu Primeiro Projeto no Power BI
+
+- **Descrição:** Esse desafio visa treinar a habilidade de criação de visuais. Assim, você poderá criar familiaridade com esses recursos. Em módulos mais avançados iremos tratar do layout mais elaborado dos nossos relatórios.
+
+- **Arquivos:** `Financial Sample PBI.pbix`
+- [**Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiODgwZDUyYjgtMWFmMC00NmI5LWI2OGYtNzBkNjE0NTM0ZjkyIiwidCI6IjlmZjQ5YWNkLTJmNTMtNGJmMS04OTkwLTRjYzY0ZGM4YjljMiJ9&pageName=ReportSection052c629dce96c532e034)
+
+O Dashboard é composta por: 
+
+- Visual mapa 1: Soma de sales e unidades vendidas por país; 
+- Visual mapa 2: Soma de lucro (profit) por país; 
+- Visual de pizza: Lucro por segmento; 
+
+Além disso: 
+
+- Verifcar a disposição dos visuais no relatório;
+- Modificar os nomes dos visuais para algo mais claro e direto (de acordo com o contexto);
+- Atenção aos campos que são utilizados como dicas de ferramentas;  
+- Publicar o relatório; 
+- Compartilhar como suplemento no Power Point. 
+
+![Captura de Tela](Img/tela01.png)
 
 
-## Sobre o Projeto
+## Projeto 2: Criando um Relatório de Vendas Elegante com Power BI
 
-Este projeto é mais do que gráficos e tabelas; é uma jornada através dos dados para desvendar insights escondidos. Explore os arquivos e descubra o poder das narrativas visuais! 🌐💡
+- **Descrição:** Em desenvolvimento...
 
-## Projeto 1: Vendas Anuais
-
-- **Descrição:** Análise das vendas anuais com gráficos interativos.
-- **Arquivos:** `Vendas_Anuais.pbix`
-- ![Captura de Tela](Img/tela01.png)
-
-## Projeto 2: Dashboard de Desempenho
-
-- **Descrição:** Dashboard dinâmico exibindo métricas de desempenho.
-- **Arquivos:** `Dashboard_Desempenho.pbix`
-- ![Captura de Tela](Img/tela02.png)
-
-## Funcionalidades Principais
-
-- 📈 Visualizações Impactantes: Gráficos que contam histórias e transformam dados em insights claros.
-- 🧭 Navegação Intuitiva: Explore os dados de maneira fácil e intuitiva, focando no que realmente importa.
-- 🔄 Atualizações Regulares: Estamos constantemente aprimorando e adicionando novos insights. Fique atento às atualizações! 
 
 ## Como Contribuir
 
