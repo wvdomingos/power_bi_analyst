@@ -2,11 +2,22 @@
 
 Bem-vindo ao meu espaço de descobertas de dados! Aqui, mergulhamos nos números para revelar histórias fascinantes. 📊✨
 
-![Exemplo de Visualização](Img/fundo1.png)
 
 ## Sobre o Projeto
 
 Este projeto é mais do que gráficos e tabelas; é uma jornada através dos dados para desvendar insights escondidos. Explore os arquivos e descubra o poder das narrativas visuais! 🌐💡
+
+## Projeto 1: Vendas Anuais
+
+- **Descrição:** Análise das vendas anuais com gráficos interativos.
+- **Arquivos:** `Vendas_Anuais.pbix`
+- ![Captura de Tela](Img/fundo1.png)
+
+## Projeto 2: Dashboard de Desempenho
+
+- **Descrição:** Dashboard dinâmico exibindo métricas de desempenho.
+- **Arquivos:** `Dashboard_Desempenho.pbix`
+- ![Captura de Tela](screenshots/dashboard_desempenho.png)
 
 ## Funcionalidades Principais
 
