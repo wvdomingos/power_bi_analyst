@@ -11,13 +11,13 @@ Este projeto é mais do que gráficos e tabelas; é uma jornada através dos dad
 
 - **Descrição:** Análise das vendas anuais com gráficos interativos.
 - **Arquivos:** `Vendas_Anuais.pbix`
-- ![Captura de Tela](Img/fundo1.png)
+- ![Captura de Tela](Img/tela01.png)
 
 ## Projeto 2: Dashboard de Desempenho
 
 - **Descrição:** Dashboard dinâmico exibindo métricas de desempenho.
 - **Arquivos:** `Dashboard_Desempenho.pbix`
-- ![Captura de Tela](screenshots/dashboard_desempenho.png)
+- ![Captura de Tela](Img/tela02.png)
 
 ## Funcionalidades Principais
 
@@ -34,9 +34,3 @@ Se você ama dados tanto quanto nós, sua contribuição é bem-vinda! Faça for
 1. Clone o repositório
 2. Abra o arquivo principal no Power BI
 3. Explore, descubra e divirta-se!
-
-## Comunidade
-
-Junte-se à nossa comunidade de entusiastas de dados no [Discord](inserir-link-para-o-discord)! Compartilhe suas ideias, faça perguntas ou apenas diga "oi". Estamos ansiosos para conhecê-lo! 👋📣
-
-Vamos desbravar os dados juntos! 🚀✨
