@@ -26,7 +26,7 @@ Além disso:
 - Publicar o relatório; 
 - Compartilhar como suplemento no Power Point. 
 
-![Captura de Tela](Img/tela01.png)
+![Captura de Tela](Img/dash2.png)
 
 
 ## Projeto 2: Criando um Relatório de Vendas Elegante com Power BI
