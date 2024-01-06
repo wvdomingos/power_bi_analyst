@@ -1,5 +1,5 @@
-# 🚀 Projetos da Formação Power BI Analyst
->Ofertado pelo [Dio.me](https://www.dio.me/users/wandervilhalvadomingos)
+# 🚀 Formação Power BI Analyst
+>Desafios dos Projetos do [DIO](https://www.dio.me/users/wandervilhalvadomingos)
 
 ## Sobre os Projetos
 
@@ -10,7 +10,7 @@ Neste projeto você irá replicar páginas já criadas durante o curso com a sam
 - **Descrição:** Esse desafio visa treinar a habilidade de criação de visuais. Assim, você poderá criar familiaridade com esses recursos. Em módulos mais avançados iremos tratar do layout mais elaborado dos nossos relatórios.
 
 - **Arquivos:** `Financial Sample PBI.pbix`
-- [**Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiODgwZDUyYjgtMWFmMC00NmI5LWI2OGYtNzBkNjE0NTM0ZjkyIiwidCI6IjlmZjQ5YWNkLTJmNTMtNGJmMS04OTkwLTRjYzY0ZGM4YjljMiJ9&pageName=ReportSection052c629dce96c532e034)
+- [**Dashboard - online**](https://app.powerbi.com/view?r=eyJrIjoiODgwZDUyYjgtMWFmMC00NmI5LWI2OGYtNzBkNjE0NTM0ZjkyIiwidCI6IjlmZjQ5YWNkLTJmNTMtNGJmMS04OTkwLTRjYzY0ZGM4YjljMiJ9&pageName=ReportSection052c629dce96c532e034)
 
 O Dashboard é composta por: 
 
@@ -30,6 +30,23 @@ Além disso:
 
 
 ## Projeto 2: Criando um Relatório de Vendas Elegante com Power BI
+
+- **Descrição:** Criar um relatório mais elaborado com base na sample financials do Power BI.
+- **Arquivos:** `Dio-Desafio-Modulo02.pbix`
+- [**Dashboard - online**](https://app.powerbi.com/view?r=eyJrIjoiZTBiNzgzY2EtOTA1Ni00ZDhiLWFjNDktMDU2NTE1MzQ0NDc5IiwidCI6IjlmZjQ5YWNkLTJmNTMtNGJmMS04OTkwLTRjYzY0ZGM4YjljMiJ9)
+
+**Objetivos:** 
+- Definir estrutura 
+- Adicionar botões de navegação que fornecem navegabilidade 
+- Adicionar segmentadores utilizados e botões com imagem associado 
+- Utilizar os indicadores e botões para selecionar diferentes visuais sobre um mesmo assunto 
+- Publique o seu relatório no Power BI Service 
+- Submenta seu projeto através do link no github 
+
+
+![Captura de Tela](./Modulo%202/img/desafio2-pg01.png)
+
+## Projeto 3: 
 
 - **Descrição:** Em desenvolvimento...
 
