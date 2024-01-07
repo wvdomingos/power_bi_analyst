@@ -5,7 +5,7 @@
 
 Neste projeto você irá replicar páginas já criadas durante o curso com a sample disponibilizada. Acesse o link do Github para ter acesso aos dados: [Juliana Zanelatto](https://github.com/julianazanelatto/power_bi_analyst) 
 
-## Projeto 1: Analisando Dados com meu Primeiro Projeto no Power BI
+# Projeto 1: Analisando Dados com meu Primeiro Projeto no Power BI
 
 - **Descrição:** Esse desafio visa treinar a habilidade de criação de visuais. Assim, você poderá criar familiaridade com esses recursos. Em módulos mais avançados iremos tratar do layout mais elaborado dos nossos relatórios.
 
@@ -29,7 +29,7 @@ Além disso:
 ![Captura de Tela](Img/dash2.png)
 
 
-## Projeto 2: Criando um Relatório de Vendas Elegante com Power BI
+# Projeto 2: Criando um Relatório de Vendas Elegante com Power BI
 
 - **Descrição:** Criar um relatório mais elaborado com base na sample financials do Power BI.
 - **Arquivos:** `Dio-Desafio-Modulo02.pbix`
@@ -46,7 +46,7 @@ Além disso:
 
 ![Captura de Tela](./Modulo%202/img/desafio2-pg01.png)
 
-## Projeto 3: 
+# Projeto 3: Processando e Transformando Dados com Power BI
 
 - **Descrição:** Em desenvolvimento...
 
