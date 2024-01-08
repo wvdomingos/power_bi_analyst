@@ -48,6 +48,23 @@ Além disso:
 
 # Projeto 3: Processando e Transformando Dados com Power BI
 
+- **Descrição:** Criar uma base de dados com o Banco de Dados MySQL, fazer a conexão com o Power BI, processar e tratar os dados, criar uma visualização simples.
+- **Arquivos:** `Dio-Desafio-Modulo03.pbix`
+
+- **Passos:**
+1. Criar a base company no Banco de Dados MySQL;
+2. Executar o script para criar estrutura da base;
+3. Executar o script de Insert dos dados;
+4. Conectar o Power BI com MySQL
+5. Fazer a Transformação dos dados;
+6. Criar uma Visualização simples.
+
+![Captura de Tela](./Modulo%203/img/Diagrama-03.png)
+
+![Captura de Tela](./Modulo%203/img/Dash-03.png)
+
+# Projeto 4: 
+
 - **Descrição:** Em desenvolvimento...
 
 
