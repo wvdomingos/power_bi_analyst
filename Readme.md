@@ -28,6 +28,7 @@ Além disso:
 
 ![Captura de Tela](Img/dash2.png)
 
+<br/>
 
 # Projeto 2: Criando um Relatório de Vendas Elegante com Power BI
 
@@ -46,6 +47,8 @@ Além disso:
 
 ![Captura de Tela](./Modulo%202/img/desafio2-pg01.png)
 
+<br/>
+
 # Projeto 3: Processando e Transformando Dados com Power BI
 
 - **Descrição:** Criar uma base de dados com o Banco de Dados MySQL, fazer a conexão com o Power BI, processar e tratar os dados, criar uma visualização simples.
@@ -63,10 +66,21 @@ Além disso:
 
 ![Captura de Tela](./Modulo%203/img/Dash-03.png)
 
-# Projeto 4: 
+<br/>
 
-- **Descrição:** Em desenvolvimento...
+# Projeto 4.1.: Criando um Star Schema para Cenários de Vendas com Power BI
 
+- **Descrição:** Criar o diagrama dimensional – star schema – com base no diagrama relacional disponibilizado.
+- **Arquivos:** `Dio-Desafio-Modulo04.pbix`
+
+![Captura de Tela](./Modulo%204/Desafio%201%20-%20Schema%20Estrela/img/SchemaEstrela.png)
+
+<br/>
+
+# Projeto 4.2.:
+
+- **Descrição:** Em desenvolvimento
+- **Arquivos:**
 
 ## Como Contribuir
 
