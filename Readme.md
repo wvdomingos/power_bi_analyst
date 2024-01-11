@@ -73,11 +73,11 @@ Além disso:
 - **Descrição:** Criar o diagrama dimensional – star schema – com base no diagrama relacional disponibilizado.
 - **Arquivos:** `Dio-Desafio-Modulo04.pbix`
 
-![Captura de Tela](./Modulo%204/Desafio%201%20-%20Schema%20Estrela/img/SchemaEstrela.png)
+![Captura de Tela](./Modulo%204/Desafio%201/img/SchemaEstrela.png)
 
 <br/>
 
-# Projeto 4.2.:
+# Projeto 4.2.: Modelagem e Transformação de dados com DAX com Power BI
 
 - **Descrição:** Em desenvolvimento
 - **Arquivos:**
