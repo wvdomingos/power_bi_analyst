@@ -5,7 +5,8 @@
 
 Neste projeto você irá replicar páginas já criadas durante o curso com a sample disponibilizada. Acesse o link do Github para ter acesso aos dados: [Juliana Zanelatto](https://github.com/julianazanelatto/power_bi_analyst) 
 
-# Projeto 1: Analisando Dados com meu Primeiro Projeto no Power BI
+## Módulo 1: Fundamentos da Análise de Dados e BI
+### Projeto 1: Analisando Dados com meu Primeiro Projeto no Power BI
 
 - **Descrição:** Esse desafio visa treinar a habilidade de criação de visuais. Assim, você poderá criar familiaridade com esses recursos. Em módulos mais avançados iremos tratar do layout mais elaborado dos nossos relatórios.
 
@@ -30,7 +31,8 @@ Além disso:
 
 <br/>
 
-# Projeto 2: Criando um Relatório de Vendas Elegante com Power BI
+## Módulo 2: Visualização de Dados e Relatórios com Power BI
+### Projeto 2: Criando um Relatório de Vendas Elegante com Power BI
 
 - **Descrição:** Criar um relatório mais elaborado com base na sample financials do Power BI.
 - **Arquivos:** `Dio-Desafio-Modulo02.pbix`
@@ -49,7 +51,8 @@ Além disso:
 
 <br/>
 
-# Projeto 3: Processando e Transformando Dados com Power BI
+## Módulo 3: Processamento de Dados com Power BI
+### Projeto 3: Processando e Transformando Dados com Power BI
 
 - **Descrição:** Criar uma base de dados com o Banco de Dados MySQL, fazer a conexão com o Power BI, processar e tratar os dados, criar uma visualização simples.
 - **Arquivos:** `Dio-Desafio-Modulo03.pbix`
@@ -68,23 +71,46 @@ Além disso:
 
 <br/>
 
-# Projeto 4.1.: Criando um Star Schema para Cenários de Vendas com Power BI
+## Módulo 4: Modelagem de Dados com Power BI
+### Projeto 4.1.: Criando um Star Schema para Cenários de Vendas com Power BI
 
 - **Descrição:** Criar o diagrama dimensional – star schema – com base no diagrama relacional disponibilizado.
-- **Arquivos:** `Dio-Desafio-Modulo04.pbix`
+- **Arquivos:** `Dio-Desafio-Modulo04-1.pbix`
 
-![Captura de Tela](./Modulo%204/Desafio%201/img/SchemaEstrela.png)
+![Captura de Tela](./Modulo%204/Desafio%204-1/img/SchemaEstrela.png)
 
 <br/>
 
-# Projeto 4.2.: Modelagem e Transformação de dados com DAX com Power BI
+### Projeto 4.2.: Modelagem e Transformação de dados com DAX com Power BI
+
+- **Descrição:** Utilizar a tabela de Financial Sample para criar as tabelas dimensão e fato do modelo baseado em star schema.
+- **Arquivos:** `Dio-Desafio-Modulo04-2.pbix`
+
+![Captura de Tela](./Modulo%204/Desafio%204-2/star-schema.png)
+
+<br/>
+
+## Módulo 5: Data Analytics & Storytelling com Power BI
+### Projeto 5: 
 
 - **Descrição:** Em desenvolvimento
 - **Arquivos:**
 
+<br/>
+
+## Módulo 6: Gerenciamento de Workspaces e Datasets com Power BI
+### Projeto 6: 
+
+- **Descrição:** Em desenvolvimento
+- **Arquivos:**
+
+<br/>
+
 ## Como Contribuir
 
 Se você ama dados tanto quanto nós, sua contribuição é bem-vinda! Faça fork, adicione seus próprios insights ou sugira melhorias. Juntos, podemos tornar este projeto ainda mais incrível! 🤝💬
+
+<br/>
 
 ## Como Iniciar
 
