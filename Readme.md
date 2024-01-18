@@ -91,7 +91,14 @@ Além disso:
 <br/>
 
 ## Módulo 5: Data Analytics & Storytelling com Power BI
-### Projeto 5: 
+### Projeto 5.1: Atualizando Relatório no Power BI com Foco na Experiência do Usuário
+
+- **Descrição:** Modificar o relatório criativo, focando na experiência do usuário.
+- **Arquivos:** `Dio-Desafio5-1-Modulo05.pbix`
+
+<br/>
+
+### Projeto 5.2: 
 
 - **Descrição:** Em desenvolvimento
 - **Arquivos:**
