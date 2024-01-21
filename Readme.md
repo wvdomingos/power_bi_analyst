@@ -1,9 +1,12 @@
+![](./img/banner-art-pbi.png)
+
 # 🚀 Formação Power BI Analyst
 >Desafios dos Projetos do [DIO](https://www.dio.me/users/wandervilhalvadomingos)
 
-## Sobre os Projetos
 
+## Sobre os Projetos
 Neste projeto você irá replicar páginas já criadas durante o curso com a sample disponibilizada. Acesse o link do Github para ter acesso aos dados: [Juliana Zanelatto](https://github.com/julianazanelatto/power_bi_analyst) 
+
 
 ## Módulo 1: Fundamentos da Análise de Dados e BI
 ### Projeto 1: Analisando Dados com meu Primeiro Projeto no Power BI
