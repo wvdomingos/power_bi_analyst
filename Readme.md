@@ -101,21 +101,6 @@ Além disso:
 
 <br/>
 
-### Projeto 5.2: 
-
-- **Descrição:** Em desenvolvimento
-- **Arquivos:**
-
-<br/>
-
-## Módulo 6: Gerenciamento de Workspaces e Datasets com Power BI
-### Projeto 6: 
-
-- **Descrição:** Em desenvolvimento
-- **Arquivos:**
-
-<br/>
-
 ## Como Contribuir
 
 Se você ama dados tanto quanto nós, sua contribuição é bem-vinda! Faça fork, adicione seus próprios insights ou sugira melhorias. Juntos, podemos tornar este projeto ainda mais incrível! 🤝💬
