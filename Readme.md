@@ -1,4 +1,4 @@
-![](./img/banner-art-pbi.png)
+![](Img/banner-art-pbi.png)
 
 # 🚀 Formação Power BI Analyst
 >Desafios dos Projetos do [DIO](https://www.dio.me/users/wandervilhalvadomingos)
